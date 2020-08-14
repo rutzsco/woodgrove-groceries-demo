@@ -1,8 +1,5 @@
 trigger:
-- master
-- develop
-- feature/*
-- prototype/*
+- release
 
 variables:
   solution: '**/*.sln'
